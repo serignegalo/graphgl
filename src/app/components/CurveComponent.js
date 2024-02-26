@@ -98,7 +98,7 @@ const CurveComponent = ({ transactionsData, mapID }) => {
     return () => {
       svg.selectAll("*").remove();
     };
-  }, [transactionsData, mapID]);
+  }, []);
 
   return (
     <div className="curve-container text-black">

@@ -74,7 +74,7 @@ async function onSubmit(event) {
           <span className="text-blue-500 font-semibold">Zone01</span> Dakar !
         </h1>
         <h2 className="text-2xl mt-8">
-          Vous accédez ici à notre plateforme <br /> d'apprentissage du code.
+          Vous accédez ici à notre plateforme <br /> d apprentissage du code.
         </h2>
         <h3 className="text-sm mt-8">
           Merci de communiquer votre <br /> username/email et votre mot de passe
